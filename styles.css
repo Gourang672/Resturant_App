@@ -1,0 +1,16 @@
+.navbar-brand{
+    margin:0 ;
+}
+.gif img{
+    width: 500px;
+    height: 500px;
+}
+
+
+@media (min-width: 576px) {
+   
+}
+
+@media (min-width: 992px) {
+    
+}
